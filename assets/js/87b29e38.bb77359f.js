@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[6800],{1598:e=>{e.exports=JSON.parse('{"permalink":"/waxdevelopers_test/blog/tags/nf-ts","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

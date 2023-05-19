@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[5811],{6819:e=>{e.exports=JSON.parse('{"label":"Antelope","permalink":"/waxdevelopers_test/blog/tags/antelope","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);

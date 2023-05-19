@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[7134],{393:e=>{e.exports=JSON.parse('{"label":"dApps","permalink":"/waxdevelopers_test/blog/tags/d-apps","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[7101],{2865:e=>{e.exports=JSON.parse('{"label":"DeFi","permalink":"/waxdevelopers_test/blog/tags/de-fi","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);

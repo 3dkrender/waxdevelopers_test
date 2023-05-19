@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[5510],{4134:e=>{e.exports=JSON.parse('{"label":"NFTs","permalink":"/waxdevelopers_test/blog/tags/nf-ts","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);

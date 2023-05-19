@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[3693],{6580:e=>{e.exports=JSON.parse('{"label":"WAX","permalink":"/waxdevelopers_test/blog/tags/wax","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);

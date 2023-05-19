@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[9585],{1919:e=>{e.exports=JSON.parse('{"label":"Blockchain","permalink":"/waxdevelopers_test/blog/tags/blockchain","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);

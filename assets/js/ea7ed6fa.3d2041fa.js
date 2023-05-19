@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[116],{3031:e=>{e.exports=JSON.parse('{"label":"EOS","permalink":"/waxdevelopers_test/blog/tags/eos","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);

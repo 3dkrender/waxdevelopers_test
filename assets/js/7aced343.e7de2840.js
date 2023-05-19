@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwaxdevelopers=self.webpackChunkwaxdevelopers||[]).push([[8315],{9980:e=>{e.exports=JSON.parse('{"label":"UX Network","permalink":"/waxdevelopers_test/blog/tags/ux-network","allTagsPath":"/waxdevelopers_test/blog/tags","count":1}')}}]);
