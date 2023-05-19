@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://wax-office-of-inspector-general.github.io',
+  url: 'https://3dkrender.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/waxdevelopers_test/',
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/wax-office-of-inspector-general/wax-developer/tree/main/',
+            'https://github.com/3dkrender/waxdevelopers_test/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/wax-office-of-inspector-general/wax-developer/tree/main/',
+            'https://github.com/3dkrender/waxdevelopers_test/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -131,7 +131,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/wax-office-of-inspector-general/wax-developer',
+                href: 'https://github.com/3dkrender/waxdevelopers_test',
               },
             ],
           },
