@@ -141,7 +141,30 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      }
+      },
+      metadata: [
+        {
+          name: 'og:title',
+          content: 'WAX Developers Docs',
+        },
+        {
+          name: 'og:description',
+          content: 'Community-driven documentation for WAX developers',
+        },
+        {
+          name: 'og:image',
+          content: 'img/wax_293x292.png',
+        },
+        {
+          name: 'og:url',
+          content: 'https://3dkrender.github.io/waxdevelopers_test/',
+        },
+        {
+          name: 'og:type',
+          content: 'website',
+        }
+
+      ]
     }),
 };
 
