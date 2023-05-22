@@ -16,8 +16,8 @@ In this example, we'll sign up for a free account and get the WAX RNG abi using 
 
 3. Get a short-lived JWT using your API key.
 
-    ```
-    curl -X POST \
+```
+  curl -X POST \
   https://auth.eosnation.io/v1/auth/issue \
   -H 'Content-Type: application/json' \
   -H 'cache-control: no-cache' \
@@ -28,16 +28,16 @@ In this example, we'll sign up for a free account and get the WAX RNG abi using 
 
 4. Use the `abi` endpoint to get the WAX RNG smart contract endpoint. In the Header, set the Authorization to Bearer and use your JWT from the previous step.
 
-    ```
+```
     curl -X GET \
       'https://wax.dfuse.eosnation.io/v0/state/abi?account=orng.wax&json=true' \
       -H 'Authorization: Bearer Your.JWT.Token' \
       -H 'cache-control: no-cache'
-    ```
+```
 
     ### Example Response
 
-    ```json
+```json
     {
     "block_num": 9135393,
     "account": "orng.wax",
