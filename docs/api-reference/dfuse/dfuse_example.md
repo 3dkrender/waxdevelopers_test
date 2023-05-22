@@ -35,7 +35,7 @@ In this example, we'll sign up for a free account and get the WAX RNG abi using 
       -H 'cache-control: no-cache'
 ```
 
-    ### Example Response
+### Example Response
 
 ```json
     {
